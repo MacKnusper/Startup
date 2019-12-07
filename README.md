@@ -1,5 +1,5 @@
 # Startup
------*My first Python Script for starting a new Project + Open an old script*-----
+-----*My first Python Script for nuke for starting a new Project + Open an old script*-----
 
 Copy the line of code in the init.py to your own init.py in your ".nuke" folder. 
 
